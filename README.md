@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python and sql
 - 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me through email ayrag17@gmail.com
+- 📫 Reach me through email ayrag17@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love going on walks and reading :)
 
